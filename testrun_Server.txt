@@ -1,0 +1,28 @@
+S: Serversocket successfully created
+S: Client accepted
+S: Client response: getList
+inside while loop 
+S: Client response: getList
+Inside getlist
+$18445	Ford Focus ZTW 2010#$30000	BMW 330i Coupe 2004#
+S: Databse sent to client. Waiting for choice
+S: Not found in database
+S: Client response: quit
+inside while loop 
+S: Client response: quit
+S: Disconnecting client.
+S: Client response: bye
+S: Serversocket successfully created
+S: Client accepted
+S: Client response: getList
+inside while loop 
+S: Client response: getList
+Inside getlist
+$18445	Ford Focus ZTW 2010#$30000	BMW 330i Coupe 2004#
+S: Databse sent to client. Waiting for choice
+S: Sent
+S: Client response: quit
+inside while loop 
+S: Client response: quit
+S: Disconnecting client.
+S: Client response: bye
